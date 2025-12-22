@@ -3,3 +3,6 @@ The NoteBook by PaddlePaddle, https://aistudio.baidu.com/personalcenter/thirdvie
 
 * #1, 【ERNIE-4.5-21B-A3B-Base】智能金融之地址匹配升级
 > https://aistudio.baidu.com/projectdetail/9904296
+
+* #2 -1, 【ERNIE X1.1】大模型角斗场Arena实战！
+> https://aistudio.baidu.com/projectdetail/9818659
