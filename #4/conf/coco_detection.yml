@@ -1,0 +1,21 @@
+metric: COCO
+num_classes: 2
+
+TrainDataset:
+  name: COCODataSet
+  image_dir: temp1
+  anno_path: work/annotations_trai.json
+  dataset_dir: ../user_data/temp
+  data_fields: ['image', 'gt_bbox', 'gt_class', 'is_crowd']
+
+EvalDataset:
+  name: COCODataSet
+  image_dir: temp1
+  anno_path: work/annotations_vals.json
+  dataset_dir: ../user_data/temp
+  allow_empty: true
+
+TestDataset:
+  name: ImageFolder
+  anno_path: work/annotations_test.json
+  dataset_dir: ../user_data/temp
