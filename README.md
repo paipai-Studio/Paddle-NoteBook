@@ -1,6 +1,10 @@
 # Paddle-NoteBook
 The NoteBook by PaddlePaddle, https://aistudio.baidu.com/personalcenter/thirdview/979775
 
+https://github.com/Ho-Tung/Paddle-NoteBook-Private
+
+https://github.com/paipai-Studio/Paddle-NoteBook
+
 * #4, 【ERNIE-4.5-VL-28B-A3B+目标检测】智能金融之伪证检测
 > https://aistudio.baidu.com/projectdetail/9930677
 
