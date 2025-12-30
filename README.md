@@ -5,6 +5,9 @@ https://github.com/Ho-Tung/Paddle-NoteBook-Private
 
 https://github.com/paipai-Studio/Paddle-NoteBook
 
+* [#5](https://github.com/paipai-Studio/Paddle-NoteBook/issues/5), **/** 【ERNIE-4.5-300B-A47B】智能金融之信贷亲访标准化
+> https://aistudio.baidu.com/projectdetail/9949524
+
 * [#4](https://github.com/paipai-Studio/Paddle-NoteBook/issues/4), **精**【ERNIE-4.5-VL-28B-A3B+目标检测】智能金融之伪证检测
 > https://aistudio.baidu.com/projectdetail/9930677
 
