@@ -5,7 +5,7 @@ https://github.com/Ho-Tung/Paddle-NoteBook-Private
 
 https://github.com/paipai-Studio/Paddle-NoteBook
 
-* #4, 【ERNIE-4.5-VL-28B-A3B+目标检测】智能金融之伪证检测
+* #4, **精**【ERNIE-4.5-VL-28B-A3B+目标检测】智能金融之伪证检测
 > https://aistudio.baidu.com/projectdetail/9930677
 
 * #2 -1, **精**【ERNIE X1.1】大模型角斗场Arena实战！
