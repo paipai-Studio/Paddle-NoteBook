@@ -5,6 +5,9 @@ https://github.com/Ho-Tung/Paddle-NoteBook-Private
 
 https://github.com/paipai-Studio/Paddle-NoteBook
 
+* [#6](https://github.com/paipai-Studio/Paddle-NoteBook/issues/6), **/** 【ERNIE-4.5-0.3B-Base】在问题匹配上的量化推理应用场景评测
+> https://aistudio.baidu.com/projectdetail/9952695
+
 * [#5](https://github.com/paipai-Studio/Paddle-NoteBook/issues/5), **/** 【ERNIE-4.5-300B-A47B】智能金融之信贷亲访标准化
 > https://aistudio.baidu.com/projectdetail/9949524
 
@@ -16,3 +19,6 @@ https://github.com/paipai-Studio/Paddle-NoteBook
 
 * [#1](https://github.com/paipai-Studio/Paddle-NoteBook/issues/1), **精**【ERNIE-4.5-21B-A3B-Base】智能金融之地址匹配升级
 > https://aistudio.baidu.com/projectdetail/9904296
+
+
+
