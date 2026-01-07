@@ -20,5 +20,6 @@ https://github.com/paipai-Studio/Paddle-NoteBook
 * [#1](https://github.com/paipai-Studio/Paddle-NoteBook/issues/1), **精**【ERNIE-4.5-21B-A3B-Base】智能金融之地址匹配升级
 > https://aistudio.baidu.com/projectdetail/9904296
 
-
+* [#2](https://github.com/paipai-Studio/Paddle-NoteBook/issues/2) -2, **精** 对抗PaddleX目标检测的一场黑盒攻击
+> https://aistudio.baidu.com/projectdetail/8400315
 
