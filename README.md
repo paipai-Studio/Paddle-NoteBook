@@ -5,6 +5,9 @@ https://github.com/Ho-Tung/Paddle-NoteBook-Private
 
 https://github.com/paipai-Studio/Paddle-NoteBook
 
+* [#7](https://github.com/paipai-Studio/Paddle-NoteBook/issues/7), **精** 【ERNIE-5.0】多模态眼部疾病诊断AI助手EDA
+> https://aistudio.baidu.com/projectdetail/9952398
+
 * [#6](https://github.com/paipai-Studio/Paddle-NoteBook/issues/6), **精** 【ERNIE-4.5-0.3B-Base】在问题匹配上的量化推理应用场景评测
 > https://aistudio.baidu.com/projectdetail/9952695
 
